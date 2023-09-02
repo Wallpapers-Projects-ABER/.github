@@ -12,7 +12,7 @@
 </br></br></br></br>
 
 
-#
+------------------
 <img src = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi/blob/main/imgs/star1.png?raw=true" width = "100px"> <img src = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi/blob/main/imgs/0.png?raw=true" width = "200px"> <img src = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi/blob/main/imgs/star2.png?raw=true" width = "10px"> <img src = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi/blob/main/imgs/star1.png?raw=true" width = "70px">
 
 
@@ -21,3 +21,15 @@
 <img src = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi/blob/main/Preview_new.gif" width = "230px">
 
 <a href = "https://github.com/Wallpapers-Projects-ABER/HitoriBocchi"> About <a>
+
+
+</br></br></br></br>
+
+
+------------------
+
+<h1> Spin gura </h1>
+
+<img src = "https://github.com/Wallpapers-Projects-ABER/Spin_gura/raw/main/source/imgs/gura_none_bg.gif" width = "300px">
+
+<a href = "https://github.com/Wallpapers-Projects-ABER/Spin_gura"> About <a>
